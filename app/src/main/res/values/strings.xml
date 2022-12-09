@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="tortos_name">Torto Name</string>
+    <string name="tortos_description">Torto Description</string>
+
+    <string-array name="data_name">
+        <item>Galapagos</item>
+        <item>Aldabra</item>
+        <item>Sulcata</item>
+        <item>Giant Pardalis</item>
+        <item>Pardalis Babcocki</item>
+        <item>Yellow Foot</item>
+        <item>Red Foot</item>
+        <item>Hermani</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kura-kura galapagos merupakan hewan asli dari Kepulauan Galapagos yang terletak di sebelah barat Ekuador. Kura-kura Galapagos merupakan kura-kura darat terbesar yang pernah tercatat dalam sejarah bernama Goliath. Ketika mati pada 2002, Goliath memiliki panjang tubuh 136 m, lebar mencapai 102 cm, dan berat badan mencapai 417 kg. Spesies yang bisa hidup hingga 175 tahun ini merupakan jenis kura-kura terbesar yang ada di dunia. Conservation Union.</item>
+        <item>Kura-kura aldabra berasal dari sebuah pulau yang terletak di Samudra Hindia bernama Aldabra. Spesies yang memiliki cangkang berbentuk kubah besar ini dapat hidup hingga lebih dari 250 tahun. Dilansir laman Oldest, Aldabra tertua yang pernah ditemukan bernama Adwaita, seekor jantan yang hidup di India. Ketika mati pada 2006, Adwaita diperkirakan sudah berusia 256 tahun dan juga dipercaya sebagai kura-kura yang memiliki usia paling panjang di dunia. Spesies ini mempunyai leher yang sangat panjang untuk meraih cabang dan ranting pohon sampai ketinggian 1 meter lebih dari tanah. Rata-rata panjang tubuh Aldabra bisa mencapai 1,1 meter dan berat mencapai 250 kg.</item>
+        <item>Kura-Kura Sulcata berasal dari selatan Gurun Sahara, Afrika. Sulcata juga dikenal dengan nama african spurred tortoise. Seorang peneliti dari Afrika, Bill Branch, melaporkan bahwa Sulcata dapat mencapai berat maksimal sebesar 105 kg dan panjangnya mencapai 83 cm dengan usia lebih dari 70 tahun. Dibanding dua kura-kura sebelumnya, Sulcata memiliki warna yang lebih cerah dan dapat lebih cepat tumbuh serta berkembang biak.</item>
+        <item>Pardalis Pardalis atau Giant Pardalis juga dikenal dengan sebutan kura-kura leopard karena motif tubuh dan cangkangnya menyerupai kulit macan tutul. Saat masih muda, kura-kura ini memiliki tempurung yang didominasi oleh warna kuning dengan bintik-bintik hitam. Ketika sudah dewasa, warna kuning tersebut memudar dan menjadi cokelat atau bahkan abu-abu. Bill Branch dalam bukunya yang berjudul Tortoises, Terrapins dan Turtles of Africa melaporkan bahwa kura-kura ini dapat tumbuh hingga 70 cm dan beratnya mencapai 40 kg.</item>
+        <item>Pardalis Babcocki juga dikenal dengan sebutan kura-kura leopard karena motif tubuh dan cangkangnya menyerupai kulit macan tutul. Satu keluarga dengan Pardalis Pardalis tetapi berbeda di ukuran tubuhnya. Kura Pardalis Babcocki dewasa hanya bekisar 12 hingga 16 Inci saja berbeda dengan Pardalis Pardalis dewasa yang mampu mencapai besar ukuran 70 cm dan beratnya mencapai 40 kg.</item>
+        <item>Kura-kura yellow-footed (Chelonoidis denticulata) adalah spesies kura-kura darat (tortoise) yang berasal dari Amerika Selatan bagian utara. Habitat alami kura-kura yellow-footed terletak di padang savana dan hutan belantara di Amerika, terutama Amazon. Kura-kura ini masih berkerabat dekat dengan kura-kura red-footed.</item>
+        <item>Kura-kura Cherry Head merupakan salah satu jenis kura-kura darat yang paling banyak dicari karena bentuk tubuh dan warna unik mirip buah ceri. Kura-kura ini juga termasuk jenis kura-kura yang dapat berumur panjang. Ia mampu bertahan hidup cukup lama hingga 50 tahun lamanya. Cherry Head tersebar luas di kawasan Brazil dan Paraguay. Ia sangat suka makan, di mana konsumsi terbesarnya adalah buah-buahan, sayuran, dan dedaunan. Tak hanya itu, mereka juga bisa mengonsumsi serangga atau cacing tanah sebagai makanan tambahan.</item>
+        <item>Kura-kura hermani (Testudo hermanni) adalah spesies kura-kura darat yang termasuk genus Testudo. Terdapat dua jenis kura-kura hermani yaitu western hermann’s tortoise (T. h. hermanni) dan eastern hermann’s tortoise (T. h. boettgeri). Habitat alami kura-kura ini terletak di Eropa bagian selatan sampai ke Asia bagian barat. Kura-kura hermani termasuk kura-kura dengan ukuran kecil-menengah. Kura-kura ini mempunyai warna hitam dengan corak kuning keemasan pada karapasnya. Kura-kura ini beraktivitas pada pagi sampai sore hari, kemudian pada malam harinya dia akan mencari tempat yang aman untuk berlindung. Salah satu kebiasaannya yang unik ialah senang berjemur di bawah sinar matahari guna menghangatkan tubuhnya. Kura-kura hermani merupakan kura-kura herbivora yang memakan tumbuh-tumbuhan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/galapagos</item>
+        <item>@drawable/aldabra</item>
+        <item>@drawable/sulcata</item>
+        <item>@drawable/giant_pardalis</item>
+        <item>@drawable/pardalis_babcocki</item>
+        <item>@drawable/yellow</item>
+        <item>@drawable/red_foot</item>
+        <item>@drawable/hermani</item>
+    </integer-array>
+
+
+</resources>
